@@ -1,5 +1,5 @@
 {
-  "app": "npx ts-node --prefer-ts-exts bin/ecs-node-fargate-cdk.ts",
+  "app": "npx ts-node --prefer-ts-exts bin/python-agent-cdk.ts",
   "watch": {
     "include": [
       "**"

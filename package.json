@@ -1,8 +1,8 @@
 {
-  "name": "ecs-node-fargate-cdk",
+  "name": "python-agent-cdk",
   "version": "0.1.0",
   "bin": {
-    "ecs-node-fargate-cdk": "bin/ecs-node-fargate-cdk.js"
+    "python-agent-cdk": "bin/python-agent-cdk.js"
   },
   "scripts": {
     "pristine": "npm run clean ; rm -fr cdk.out node_modules",
